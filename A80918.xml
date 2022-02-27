@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exemplification under the Great Seal of England, of an ordinance of His Highness the Lord Protector by and with the advice and consent of his council, dated the 26th of May, 1654. Entituled, An ordinance for the preservation of the works of the great level of the Fens; which ordinance was confirmed by one Act and Declaration made in the Parliament begun at Westminster the 17th day of September, an. Dom. 1656.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80918</idno>
+            <idno type="STC">Wing C7085B</idno>
+            <idno type="STC">ESTC R229639</idno>
+            <idno type="EEBO-CITATION">99899298</idno>
+            <idno type="PROQUEST">99899298</idno>
+            <idno type="VID">152923</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152923)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2333:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exemplification under the Great Seal of England, of an ordinance of His Highness the Lord Protector by and with the advice and consent of his council, dated the 26th of May, 1654. Entituled, An ordinance for the preservation of the works of the great level of the Fens; which ordinance was confirmed by one Act and Declaration made in the Parliament begun at Westminster the 17th day of September, an. Dom. 1656.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Hen: Hills and John Field, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard Law School Library, Cambridge, Mass.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fens, The (England)</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152923:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:152923:1"/>
+            <!-- PDF PAGE 7 -->
+            <p>AN EXEMPLIFICATION UNDER THE Great Seal of England, OF AN ORDINANCE Of His Highneſs the LORD PROTECTOR, By and with the Advice and Conſent of His Council, Dated the 26<hi rend="sup">th</hi> of <hi>May,</hi> 1654. ENTITULED, <hi>An Ordinance for the Preſervation of the Works of the Great Level of the Fens;</hi>
+            </p>
+            <p>Which Ordinance was confirmed by one Act and Declaration made in the Parliament begun at <hi>Weſtminſter</hi> the 17<hi rend="sup">th</hi> day of <hi>September, An. Dom.</hi> 1656.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by HEN: HILLS and JOHN FIELD, Printers to His Highneſs the Lord PROTECTOR. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152923:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="1" facs="tcp:152923:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>AN EXEMPLIFICATION UNDER THE Great Seal of England, OF AN ORDINANCE Of His Highneſs the LORD PROTECTOR, By and with the Advice and Conſent of His Council, Dated the 26<hi rend="sup">th</hi> of <hi>May,</hi> 1654.</head>
+            <head type="sub">ENTITULED, <hi>An Ordinance for the Preſervation of the Works of the Great Level of the Fens;</hi> Which Ordinance was confirmed by one Act and Declaration made in the Parliament begun at <hi>Weſtminſter</hi> the 17<hi rend="sup">th</hi> day of <hi>September, An. Dom.</hi> 1656.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>LIVER</hi> Lord Protector of the Commonwealth of <hi>England, Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> and the Domi<g ref="char:EOLhyphen"/>nions and Territories thereun<g ref="char:EOLhyphen"/>to belonging, To all to whom theſe preſents ſhall come, Greet<g ref="char:EOLhyphen"/>ing; We have inſpected the Tenor of a certain Writ of <hi>Certiorari,</hi> lately iſſued out of Our Court of <hi>Chancery,</hi> to <hi>Henry Scobell</hi> 
+               <abbr>Eſq</abbr> Clerk of the Parliament directed, together with a Return made on the back of the ſaid Writ, re<g ref="char:EOLhyphen"/>maining of Record in the Files of Our ſaid <hi>Chancery</hi> in theſe words, <hi>Oliver</hi> Lord Pro<g ref="char:EOLhyphen"/>tector
+<pb n="2" facs="tcp:152923:3"/>
+               <!-- PDF PAGE 9 -->of the Commonwealth of <hi>England, Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> and the Dominions and Ter<g ref="char:EOLhyphen"/>ritories thereunto belonging, To <hi>Henry Sco<g ref="char:EOLhyphen"/>bell</hi> 
+               <abbr>Eſq</abbr> Clerk of the Parliament, Greeting; We willing to be certified upon the Tenor of a certain Ordinance made and Ordained by Vs and Our Council, in the year of our Lord, One thouſand ſix hundred fifty four, Entitu<g ref="char:EOLhyphen"/>led, <hi>An Ordinance for the Preſervation of the Work of the Great Level of the Fens;</hi> which Ordinance by a certain Act made and Ordained in the Parliament begun at <hi>Weſtminſter</hi> the Seven<g ref="char:EOLhyphen"/>teenth day of <hi>September,</hi> in the year of our Lord, One thouſand ſix hundred fifty ſix, and then and there held and continued until the Six and twentieth day of <hi>June</hi> following, and thence adjourned until the Twentieth day of <hi>January</hi> then next enſuing, Entituled, <hi>An Act and Declaration touching ſeveral Acts and Ordinan<g ref="char:EOLhyphen"/>ces made ſince the Twentieth of <hi>April,</hi> One thouſand ſix hundred fifty three, and before the Third of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> One thouſand ſix hundred fifty four, and other Acts, <hi>&amp;c.</hi>
+               </hi> is amongſt others confirmed, Do Command you that the Tenor of the Ordi<g ref="char:EOLhyphen"/>nance aforeſaid, with all things touching the ſame, you ſend to Vs in Our <hi>Chancery</hi> di<g ref="char:EOLhyphen"/>ſtinctly and plainly under your Seal without delay, together with this Writ: Witneſs Our Self at <hi>Weſtminſter</hi> the Seventh day of <hi>Auguſt,</hi> in the year of our Lord, One thouſand ſix hundred fifty ſeven. <hi>Lenthal. Th.</hi> The Execu<g ref="char:EOLhyphen"/>tion of this Writ appears in a certain Sche<g ref="char:EOLhyphen"/>dule to this Writ annexed, <hi>Henry Scobell</hi> Clerk of the Parliament: We have alſo inſpected the Tenor of the Ordinance aforeſaid, in the ſaid Writ, mentioned in a certain Schedule to
+<pb n="3" facs="tcp:152923:3"/>
+               <!-- PDF PAGE 9 -->the ſaid Writ annexed; remaining alſo of Re<g ref="char:EOLhyphen"/>cord in the Files of Our ſaid <hi>Chancery,</hi> in theſe words, In the Parliament begun and held at <hi>Weſtminſter</hi> the Seventeenth day of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> in the year of our Lord, One thouſand ſix hundred fifty and ſix, and there continued un<g ref="char:EOLhyphen"/>til the Twenty ſixth day of <hi>June,</hi> in the year One thouſand ſix hundred fifty ſeven, and from thence adjourned until the Twentieth day of <hi>January</hi> next enſuing; amongſt other Acts made and ordained, one Act was made, Entituled, <hi>An Act and Declaration touching ſe<g ref="char:EOLhyphen"/>veral Acts and Ordinances, made ſince the Twentieth day of <hi>April,</hi> in the year of our Lord; One thouſand ſix hundred fifty three, and before the Third of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> One thouſand ſix hundred fifty four, and other Acts, <hi>&amp;c.</hi>
+               </hi> in which Act it is contained as fol<g ref="char:EOLhyphen"/>loweth; Be it Enacted by His Highneſs the Lord Protector and this preſent Parliament, and it is hereby Enacted and Declared by the Authority of the ſame, That (amongſt o<g ref="char:EOLhyphen"/>thers) one Ordinance alſo made in the ſame year, One thouſand ſix hundred fifty four, Entituled, <hi>An Ordinance for Preſervation of the Work of the Great Level of the Fens,</hi> ſhall be, and are hereby continued and confirmed, and ſhall ſtand and be in full force and ſtrength, to all intents and purpoſes, Any matter or thing to the contrary notwithſtanding: The Te<g ref="char:EOLhyphen"/>nor of which Ordinance follows in theſe words; <hi>viz.</hi>
+            </p>
+            <p>WHereas by an Act of Parliament, Entituled, <hi>An Act for the Draining of the Great Level of the Fens, extending it ſelf into the ſeveral Counties of <hi>Northampton, Nor<g ref="char:EOLhyphen"/>folk,
+<pb n="4" facs="tcp:152923:4"/>
+                     <!-- PDF PAGE 10 -->Suffolk, Lincoln, Cambridge <hi>and</hi> Huntington,</hi> and the Iſle of <hi>Ely,</hi> or ſome of them; William</hi> Earl of <hi>Bed<g ref="char:EOLhyphen"/>ford,</hi> Participants and Adventurers are thereby impowered to Drain the ſaid Level, which is done accordingly, and ſo adjudged; and to have for their recompence the propor<g ref="char:EOLhyphen"/>tion of ninety five thouſand Acres, which is alſo ſet out and Aſſigned; In and by which Act there is not a full remedy made and pro<g ref="char:EOLhyphen"/>vided to enforce the payment of Taxes, which ſhall be laid and aſſeſſed in order to the preſer<g ref="char:EOLhyphen"/>ving of the ſaid Level: For remedy whereof, and alſo for providing of all ways and means conducing to the preſervation thereof, Be it Ordained and Eſtabliſhed by His Highneſs the Lord Protector, with the conſent of His Council, That upon any Tax or Taxes to be made or laid, in purſuance of the ſaid Act, that it ſhall and may be lawful for any perſon or perſons, by any Warrant under the Hands and Seals of any five or more of the ſaid Ad<g ref="char:EOLhyphen"/>venturers or Participants of the ſaid ninety five thouſand Acres (having five hundred A<g ref="char:EOLhyphen"/>cres apiece) not onely to diſtrain upon the ſaid Lands which are, or ſhall be in arrear for ſuch Taxes, but in caſe of non-payment by the ſpace of thirty days after the Tax ſo in ar<g ref="char:EOLhyphen"/>rear, to ſell the diſtreſs, or diſtreſſes ſo taken, and the moneys ariſing by ſuch ſale or ſales, to be imployed as well to the ſatisfying of ſuch Arrears of Taxes as to the payment of two ſhillings in the pound for the Taxes ſo in ar<g ref="char:EOLhyphen"/>rear, to the uſe of the ſaid Earl, Participants and Adventurers, their Heirs and Aſſigns, for defraying Charges occaſioned in and about ſuch Diſtreſſes and Sales, rendring always
+<pb n="5" facs="tcp:152923:4"/>
+               <!-- PDF PAGE 10 -->the Surpluſage upon ſuch Sales, above the ſaid arrear Taxes, and two ſhillings in the pound aforeſaid, if any be, to the Owner of the Diſtreſſes, demanding the ſame, and where no ſufficient diſtreſs or diſtreſſes ſhall be found, after the ſaid thirty days, when any perſon ſhall come to diſtrain for ſuch Taxes in arrear, Be it Ordained by the Authority aforeſaid, That in ſuch caſes it ſhall and may be lawful to &amp; for the ſaid <hi>William</hi> Earl of <hi>Bedford,</hi> Partici<g ref="char:EOLhyphen"/>pants, and Adventurers, their Heirs and Aſ<g ref="char:EOLhyphen"/>ſigns, or any five or more of them, having the ſaid proportion of five hundred Acres a piece, to lay any Mulct or penalty for non-payment of Taxes ſo made or laid as aforeſaid, not ex<g ref="char:EOLhyphen"/>ceeding the ſum of three ſhillings and four pence in the pound for the Taxes unpaid, and as well for the ſaid Taxes as Penalty, to En<g ref="char:EOLhyphen"/>ter, Seize and Sequeſter the Lands ſo in ar<g ref="char:EOLhyphen"/>rear for want of Taxes, to and for the uſe of the ſaid Earl, Participants, and Adventu<g ref="char:EOLhyphen"/>rers, their Heirs and Aſſigns, and the Rents and Profits of the ſaid Sequeſtred Lands to receive without accompt, until the ſaid Taxes and Penalties ſhall be ſatisfied and paid.</p>
+            <p>And be it further Ordained and Eſtabliſhed by the Authority aforeſaid, That the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> Earl of <hi>Bedford,</hi> Participants, and Ad<g ref="char:EOLhyphen"/>venturers, their Heirs and Aſſigns, or any five or more of them, having the ſaid Propor<g ref="char:EOLhyphen"/>tion of five hundred Acres, ſhall and may uſe and exerciſe the ſame and like power, for the making, repairing and amending of any Banks, Dams, Sluces, Saſſes, Drains or other Works, made or to be made out of the Compaſs and Boundaries of the ſaid great
+<pb n="6" facs="tcp:152923:5"/>
+               <!-- PDF PAGE 11 -->Level, as they, or any five of them, do or may uſe or exerciſe in the repairing or amending of any Banks, Dams, Sluces, Saſſes, Drains, or Works, within the compaſs of the ſaid Le<g ref="char:EOLhyphen"/>vel.</p>
+            <p>And be it further Ordained and Eſtabliſhed by the Authority aforeſaid, That if any per<g ref="char:EOLhyphen"/>ſon or perſons ſhall unlawfully cut, caſt down, burn or deſtroy, or other act do for the deſtroy<g ref="char:EOLhyphen"/>ing of any Bank, Dam, Sluce, Saſſe, Drain, or other Work made, or to be made, which doth or ſhall conduce to the Draining of the ſaid Level, that in ſuch caſes the Commiſ<g ref="char:EOLhyphen"/>ſioners in the ſaid Act named, or ſuch as ſhall from time to time be nominated in their rooms by Act of Parliament, or under the Great Seal of <hi>England,</hi> according to the ſaid Act, or any three or more of them, upon complaint and proof made before them of ſuch unlawful burning, caſting down, cutting, or deſtroying, or other act doing for deſtroying as aforeſaid; award double Damages to the ſaid Earl, Par<g ref="char:EOLhyphen"/>ticipants, and Adventurers, their Heirs and Aſſigns, to be levied by diſtreſs and ſale of the Offenders goods, and to be imployed for and towards the maintenance of the ſaid Works, and for want of ſufficient diſtreſs to commit ſuch Offender or Offenders to the Houſe of Correction, there to remain until ſatisfaction be made and given of the ſaid damages ſo a<g ref="char:EOLhyphen"/>warded; And if ſuch cutting, burning, caſting down or deſtroying ſhall be perverſe and ma<g ref="char:EOLhyphen"/>licious, the Offenders therein ſhall be adjudg<g ref="char:EOLhyphen"/>ed Felons, and be proceeded againſt and ſuffer ſuch pains and puniſhments, as thoſe who ſhall perverſly or maliciouſly cut the New
+<pb n="7" facs="tcp:152923:5"/>
+               <!-- PDF PAGE 11 -->Podick Bank in <hi>Marſhland</hi> in the County of <hi>Norfolk,</hi> Provided that all and every ſuch Of<g ref="char:EOLhyphen"/>fender be proſecuted within four Moneths next after the offence commited.</p>
+            <p>And be it further Ordained and Eſtabliſhed, That the ſaid Commiſſioners, or any three or more of them, are hereby impowred and autho<g ref="char:EOLhyphen"/>rized to hear, adjudge and determine all mat<g ref="char:EOLhyphen"/>ters and things for and concerning the diſtur<g ref="char:EOLhyphen"/>bing the poſſeſſion or poſſeſſions of any Adven<g ref="char:EOLhyphen"/>turer or Participant in the ſaid ninety five thouſand Acres, or any part thereof, their or any of their Heirs or Aſſigns, as alſo for and concerning all ways and paſſages uſed or be<g ref="char:EOLhyphen"/>longing to any part or parcel thereof, and up<g ref="char:EOLhyphen"/>on judgement or determination given therein, then to commit to the Common Goal all ſuch perſon and perſons who ſhall not be conform<g ref="char:EOLhyphen"/>able thereunto, there to remain until a con<g ref="char:EOLhyphen"/>formity and obedience ſhall be given; And the Sheriff, and all other Officers and Miniſters of Iuſtice, and ſuch as ſhall be concerned, are hereby required to be aiding and aſſiſting to the ſaid Commiſſioners in what they ſhall do or command to be done, or executed by vertue of this Ordinance; and all and every perſon and perſons concerned or to be concerned by this Ordinance, or which ſhall do any thing in Ex<g ref="char:EOLhyphen"/>ecution of the ſame, may upon any Action, Suit, or Information, plead the general Iſſue, and upon any Iſſue joyned may give this Ordinance in Evidence, which ſhall be of equal force and validity, as if the ſame had been eſpecially pleaded; And all Iudges, Iuſtices, Iurors, and others, are ſo to accept the ſame. Provided that this Ordinance or
+<pb n="8" facs="tcp:152923:6"/>
+               <!-- PDF PAGE 12 -->any thing therein contained, ſhall not ex<g ref="char:EOLhyphen"/>tend, nor be conſtrued to extend to invalidate any Covenant, Contract, or Agreement made by the ſaid Adventurers, with the purchaſers of any part of the ninety five thouſand Acres, or among themſelves concerning the taxing, not taxing, or the maner of taxing of or con<g ref="char:EOLhyphen"/>cerning any part of the ninety five thouſand Acres.</p>
+            <p>And be it further Ordained and Eſtabliſhed, That if any perſon or perſons of a Forein Na<g ref="char:EOLhyphen"/>tion, in League and Amity with the Com<g ref="char:EOLhyphen"/>monwealth, being Proteſtants, ſhall become Purchaſer or Farmer of any Lands part of the ſaid ninety five thouſand Acres, the ſaid perſon or perſons, their Heirs, Executors and Adminiſtrators (as to the ſaid Lands and the Rents, Profits, and proceed of the ſame, and all Suits touching the ſame) ſhall be ac<g ref="char:EOLhyphen"/>counted free Denizons of this Common<g ref="char:EOLhyphen"/>wealth, and enjoy the like Priviledges and Ad<g ref="char:EOLhyphen"/>vantages for deſcent to their children, Dower to their wives, and otherwiſe, as Denizons of this Commonwealth ought to enjoy.</p>
+            <p>Paſſed the Twenty ſixth day of <hi>May,</hi> One thouſand ſix hundred fifty four, I <hi>Henry Sco<g ref="char:EOLhyphen"/>bell</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Clerk of the Parliament,</hi> by vertue of a Writ of <hi>Certiorari</hi> to me directed, and to this Schedule annexed, Do certifie that the Wri<g ref="char:EOLhyphen"/>ting above is the true Tenor of the Ordinance in the ſaid Writ expreſſed; In Teſtimony whereof, I have hereunto ſet my Seal, and ſubſcribed my name this Fifteenth day of <hi>Auguſt,</hi> in the year of our Lord, One thouſand ſix hundred fifty and ſeven, <hi>Henry Scobell, Clerk of the Parliament.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:152923:6"/>
+               <!-- PDF PAGE 12 -->
+The ſeveral Tenors therefore of the ſaid Writ, Ordinance and Act of Parliament aforementioned, at the Requeſt of the ſaid <hi>William</hi> Earl of <hi>Bedford,</hi> We have cauſed to be Exemplified by theſe preſents; In Teſtimo<g ref="char:EOLhyphen"/>ny whereof We have cauſed theſe Our Let<g ref="char:EOLhyphen"/>ters to be made Patents, Witneſs Our Self at <hi>Weſtminſter</hi> the Nineth day of <hi>September,</hi> in the year of our Lord, One thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty and ſeven.</p>
+            <closer>
+               <signed>Lenthal. Th.</signed> 
+            </closer>
+            <postscript>
+               <p>Examined by us <hi>William Glascock</hi> and <hi>William Harington,</hi> Maſters of <hi>Chancery</hi> in Ordinary, 1657.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by HEN: HILLS and JOHN FIELD, Printers to His Highneſs the Lord PROTECTOR. 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
